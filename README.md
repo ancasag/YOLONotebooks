@@ -10,8 +10,8 @@ Aquí nos podemos encontrar con un conjunto de Noteboks de Jupyter, que se corre
 * **CPUs-GPUsDrive-GPU.ipynb**: en este notebook vamos a realizar una comparación de los entrenamientos de varias redes en distintos entornos, en este caso se realizarán las pruebas con la GPU cedida por Google Drive.
 * **YOLO1.ipynb**: este notebook permite descargar la red neuronal YOLO, además de copiar dentro de la carpeta donde se encuentra YOLO un conjunto de notebooks con ejemplos de modelos realizados.
 * **YOLO2.ipynb**: este notebook contiene las explicaciones para comenzar a usar YOLO y también contiene una serie de ejemplos donde se puede observar como funciona, tanto para el caso de imágenes como de vídeos.
-* **YOLO_PASCAL_VOC.ipynb**: en este caso se ha desarrollado un notebook donde vamos a ver como se entrena la red YOLO desde cero utilizando un dataset llamado Pascal VOC.
-* **YOLO_CoCo.ipynb**: en este notebook vamos a ver como se entrena la red YOLO desde cero utilizando un dataset llamado CoCo.  
-* **YOLO_Estomas.ipynb**: en este notebook vamos a ver como se entrena la red YOLO desde cero utilizando un dataset de estomas, el fin de este dataset consiste en dadas unas imágenes que detecte si hay estomas y donde.
+* **YOLO_PASCAL_VOC.ipynb**: en este caso se ha desarrollado un notebook donde vamos a ver cómo se entrena la red YOLO desde cero utilizando un dataset llamado Pascal VOC.
+* **YOLO_CoCo.ipynb**: en este notebook vamos a ver cómo se entrena la red YOLO desde cero utilizando un dataset llamado CoCo.  
+* **YOLO_Estomas.ipynb**: en este notebook vamos a ver cómo se entrena la red YOLO desde cero utilizando un dataset de estomas, el fin de este dataset consiste en dadas unas imágenes que detecte si hay estomas y donde.
 * **CLODSA_Estomas.ipynb**: este notebook nos permite aumentar el dataset en caso de contar con un número reducido de imágenes.
 * **NotebookGeneral.ipynb**: En este caso se va a realizar un notebook general que permita crear un modelo de detección, para que cualquier usuario pueda usarlo dado un conjunto de datos cualquiera.
