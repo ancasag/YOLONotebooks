@@ -1,6 +1,6 @@
 # YOLO Notebooks
 ### ¿Qué son los notebooks de Jupyter?
-Los cuadernos de Jupyter son un aplicación web de código abierto que permite crear y compartir documentos que contengan tanto código, como acuaciones, como texto que permite explicar los pasos realizados.
+Los cuadernos de Jupyter son un aplicación web de código abierto que permite crear y compartir documentos que contengan tanto código, como ecuaciones, como texto que permite explicar los pasos realizados.
 
 ### Notebooks
 Aquí nos podemos encontrar con un conjunto de Noteboks de Jupyter, que se corresponden con la implementación del Trabajo de Fin de Máster:
