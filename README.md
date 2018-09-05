@@ -16,3 +16,8 @@ Aquí nos podemos encontrar con un conjunto de Noteboks de Jupyter, que se corre
 * **CLODSA_Estomas.ipynb**: este notebook nos permite aumentar el dataset en caso de contar con un número reducido de imágenes.
 * **NotebookGeneral.ipynb**: En este caso se va a realizar un notebook general que permita crear un modelo de detección, para que cualquier usuario pueda usarlo dado un conjunto de datos cualquiera.
 * **NotebookGeneralEstomas.ipynb**: El notebook genérico aplicado para crear un modelo de detección de estomas.
+
+-----
+
+# Acknowledgments
+We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research.
